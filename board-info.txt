@@ -1,0 +1,1 @@
+require board=pdx225|XQ-CC54|XQ-CC72
